@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3cfd3f5d1de56296ea1a559c",
+  "owner": "mk5ajyye",
+  "repo": "page-dc96a6c343e4f0b963a5580d",
+  "title": "Dingyue",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc96a6c343e4f0b963a5580d",
+      "a": "Dingyue",
+      "b": "",
+      "entity": "Dingyue",
+      "brand": "Dingyue",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d33a1fa3184b2f2047025995b40916c2338776a59c780ac84882c302c9c7fa01",
+      "content": {
+        "keyword1": "Dingyue",
+        "keyword2": "",
+        "primary_entity": "Dingyue",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Dingyue 提供高速稳定的机场订阅与 VPN 梯子服务，覆盖多场景网络加速，支持官方客户端下载与套餐对比，助您畅享全球内容。",
+          "AI_DESCRIPTION": "Dingyue 提供高速稳定的机场订阅与 VPN 梯子服务，覆盖多场景网络加速，支持官方客户端下载与套餐对比，助您畅享全球内容。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;width:100%;overflow-x:hidden;box-sizing:border-box}*,*:before,*:after{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",\"Segoe UI\",Roboto,Arial,sans-serif;background-color:#fff8f0;color:#2c2c2c;font-size:16px;line-height:1.7}header{background:#ffffff;border-bottom:3px solid #ff7043;padding:12px 16px} .brand{font-weight:700;font-size:1.25rem;color:#bf360c;margin-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#e64a19;font-weight:600;text-decoration:none}main{max-width:960px;margin:0 auto;padding:16px 16px 32px}h1{font-size:1.75rem;color:#bf360c;margin:0 0 16px;line-height:1.3}h2{font-size:1.35rem;color:#d84315;border-bottom:2px solid #ffab91;padding-bottom:6px;margin:28px 0 12px}h3{font-size:1.12rem;color:#e64a19;margin:16px 0 8px}p,li{margin:0 0 10px}a{color:#e64a19}section{margin-bottom:8px}.editorial{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px;background:#ffffff;border:1px solid #ffccbc;padding:14px;border-radius:6px}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:12px 0 8px}.plan{flex:1 1 250px;background:#ffffff;border:1px solid #ffccbc;border-radius:8px;padding:16px}.plan.featured{border:2px solid #ff7043;background:#fff3e0}.badge{display:inline-block;background:#ff7043;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.28rem;font-weight:700;color:#d84315}.annual{font-size:0.9rem;color:#5d4037}.plan ul{margin:8px 0 0;padding-left:18px}.plan li{margin-bottom:6px}details{background:#ffffff;border:1px solid #ffe0b2;margin:0 0 10px;padding:10px 12px;border-radius:4px}summary{font-weight:700;color:#bf360c}footer{background:#fbe9e7;padding:20px 16px;text-align:center;font-size:0.9rem;color:#5d4037}footer p{margin:0 0 8px}.friend a{display:inline-block;margin:4px 10px;color:#e64a19;text-decoration:none}@media (max-width:640px){h1{font-size:1.5rem}h2{font-size:1.22rem}.plans,.editorial{flex-direction:column}nav{font-size:0.92rem}}</style><header><div class=\"brand\">Dingyue</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#howto\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告合作</a></nav></header><main><h1>Dingyue 机场与 VPN 加速官方网站</h1><section id=\"intro\"><h2>品牌简介</h2><p>Dingyue 是面向全球网络加速需求的机场订阅与 VPN 梯子服务品牌。我们以稳定节点、清晰套餐和多端客户端适配为核心，帮助用户完成流媒体解锁、游戏加速、学术访问与远程办公。本站为 Dingyue 官方网站，集中提供套餐说明、操作指引与官网下载相关信息，便于用户按设备完成订阅导入。</p><p>Dingyue 坚持把线路质量放在首位，节点覆盖亚洲、北美与欧洲主要枢纽，普通线路与 IPLC 专线分层运营。旗舰与团队方案针对高并发、原生流媒体和解锁场景做了容量预留。用户可在本页对比套餐后，按操作说明完成客户端配置。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"editorial\"><div class=\"col\"><h3>流媒体与内容访问</h3><p>适合需要稳定观看国际流媒体、高清视频与直播的用户。旗舰版强调全节点原生流媒体解锁，减少地区限制带来的缓冲与鉴权失败。</p></div><div class=\"col\"><h3>游戏与实时应用</h3><p>对局游戏、语音与远程桌面更依赖延迟。IPLC 专线游戏加速优化可降低跨境抖动，适合晚高峰仍需保持可玩性的玩家。</p></div><div class=\"col\"><h3>办公、学术与多设备</h3><p>跨境协作、文献检索与多终端同步可使用基础版或团队版。团队版支持更多同时在线设备与企业定制路由，便于统一出口策略。</p></div></div></section><section id=\"howto\"><h2>操作说明</h2><h3>选择套餐并获取订阅</h3><p>在套餐对比中确认流量、设备数与线路类型后完成订阅。订阅成功后会获得专属机场订阅地址，请妥善保存，避免公开分享导致流量异常。</p><h3>下载并安装客户端</h3><p>Windows 可使用 Clash 系或 Mihomo 内核客户端，macOS 可使用 Clash 或 Surge 类工具，Android 推荐 Clash Meta 内核应用，iOS 常用 Shadowrocket 等商店应用。请通过正规应用商店或项目说明获取客户端，再回到本官网对照配置步骤。</p><h3>导入订阅并选择节点</h3><p>打开客户端的订阅管理，粘贴 Dingyue 提供的订阅链接并更新。连接时优先选择距离近或标注 IPLC、原生解锁的节点。首次使用建议先测延迟，再固定常用分组，避免频繁切换造成会话中断。</p><h3>日常维护</h3><p>定期更新订阅与客户端内核。若出现流媒体鉴权失败，可更换原生解锁节点；游戏场景优先专线。流量将在套餐周期内统计，接近上限时可升级方案。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为 Dingyue 当前公开方案，便于按流量、设备数与线路能力选择。旗舰版适合大多数个人用户，团队版面向多成员与定制路由。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>Dingyue 节点按地区与用途分组，包含香港、日本、新加坡、美国、德国等常用出口。普通线路满足网页与日常通信，IPLC 专线面向游戏与实时音视频。带宽按套餐等级分配，旗舰与团队用户在高峰期可使用更高优先级通道。</p><p>建议将流媒体、下载与游戏分策略：视频走原生解锁节点，对局走专线，大文件避开实时通道。客户端支持规则分流后，同一订阅即可兼顾加速与本地直连。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>Dingyue 官方网站不捆绑来路不明的安装包。请按系统选择主流开源或商店客户端，再导入本站套餐对应的订阅。Windows 与 macOS 完成后即可在托盘或菜单栏切换节点；移动端需开启 VPN 权限并允许本地规则。</p><p>官网下载相关说明以本页操作步骤为准。若客户端版本过旧，先升级内核再更新订阅。企业用户可由客户经理协助下发统一配置，减少逐台手工导入。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Dingyue 是什么服务？和普通加速器有何不同？</summary><p>Dingyue 是机场订阅型网络加速服务，通过标准客户端导入订阅后选择节点。与单一 App 加速器相比，更强调多端通用、规则分流和可对比的套餐流量，适合同时使用电脑与手机的用户。</p></details><details><summary>如何完成客户端下载并开始使用？</summary><p>先确定系统，安装 Clash 系、Mihomo、Shadowrocket 等常用客户端，再将官方订阅链接粘贴到订阅栏更新。连接成功后访问目标站点验证。详细步骤见本页操作说明。</p></details><details><summary>三个套餐该如何选择？</summary><p>轻度浏览与少量视频可选基础版；需要原生流媒体、游戏专线与五台设备时选旗舰版；工作室、家庭或需要定制路由时选团队版。年付价格已在各套餐中标明。</p></details><details><summary>支持哪些设备同时在线？流量如何计算？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。流量按套餐周期累计，仅统计代理出口产生的数据。本地直连不计入。接近上限可升级，避免突然中断。</p></details><details><summary>流媒体解锁失败或游戏延迟高怎么办？</summary><p>先更新订阅并更换原生解锁节点；游戏请改用标注 IPLC 的专线。关闭系统代理冲突、核对规则分流后重试。旗舰版用户可通过优先工单反馈具体节点。</p></details><details><summary>官网身份如何确认？订阅是否安全？</summary><p>请通过 Dingyue 官方网站阅读套餐与教程，不要在来源不明的页面填写订阅。订阅地址仅限本人客户端使用。服务用于合法访问与学习交流，用户应遵守所在地法律法规。</p></details></section><section id=\"ads\"><h2>广告合作</h2><p>本站预留品牌与工具类文字合作位置，面向网络效率、云服务与正规软件介绍。合作需求请通过官方客服沟通投放周期与内容审核要求。</p></section><section id=\"friends\"><h2>友情链接</h2><p class=\"friend\"><a href=\"#\">客户端配置手册</a><a href=\"#\">分流规则说明</a><a href=\"#\">节点选择指南</a><a href=\"#\">企业路由方案</a><a href=\"#\">官网下载指引</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© Dingyue 官方网站 版权所有</p><p>Dingyue 提供机场订阅、VPN 梯子网络加速与客户端配置说明。使用前请确认套餐条款并遵守当地法规。</p></footer>",
+          "hash": "3445da610ebdcf7020311c27c4a50f0f71c830c8d750db5f491248b4aabfe050",
+          "seo": {
+            "title": "Dingyue 官方网站 | VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "Dingyue,Dingyue机场,Dingyue VPN,VPN梯子,网络加速器,机场订阅,客户端下载,官网下载,Clash配置,流媒体解锁",
+            "description": "Dingyue 提供高速稳定的机场订阅与 VPN 梯子服务，覆盖多场景网络加速，支持官方客户端下载与套餐对比，助您畅享全球内容。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dpxaa.cn",
+    "host": "p-d37c72134b.dpxaa.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "dpxaa.cn",
+      "url": "https://dpxaa.cn/",
+      "label": "奇异のtravel",
+      "apex": "dpxaa.cn",
+      "kind": null,
+      "identity": "unhhgtjt/page-425075975c801c49c07044bd"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f909dabba70b17fd2d5401d2a8a28c26223f396d7d02871777bfe865fade1ca2",
+    "sitemap.xml": "e1d069741507b2be94a0674b4d839df3e74e9f8712c3dab7849fd4023e407dd0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "137dcea229678fa8d990f48d18f9e646522a8e39c5229921874019ed9b56ed78",
+    "robots.txt": "8077b5af3a394142fac37f48ce1b047d5c7d11ad2ba998f0210e0e1e9e4652bb",
+    "08bde9e1cf48ec9465291bb7d3348471.txt": "376fbddd42a0fac0de339fe3a0e0e12d917e407dceac2e0ce237ebdd59670643"
+  },
+  "revision": "a9ce96c67f409c0e73c4510a769656f14f5c367410ba37cbaba782710a24f915"
+}
